@@ -1,0 +1,6 @@
+[submodule "hydrogen_fuel_cell"]
+	path = hydrogen_fuel_cell
+	url = https://github.com/faerietree/hydrogen_fuel_cell.git
+[submodule "hydrogen_from_space"]
+	path = hydrogen_from_space
+	url = https://github.com/faerietree/hydrogen_from_space.git
