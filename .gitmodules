@@ -1,0 +1,3 @@
+[submodule "microbial_fuel_cell"]
+	path = microbial_fuel_cell
+	url = https://github.com/faerietree/microbial_fuel_cell.git
